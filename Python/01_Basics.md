@@ -7,12 +7,12 @@
 
 ### Hello World
 python
-print("Hello, world!")
+`print("Hello, world!")`
 
 ### Variables
 name = "Sam"
 age = 25
-print(f"My name is {name} and I am {age} years old.")
+`print(f"My name is {name} and I am {age} years old.")`
 
 Data Types
 
@@ -23,4 +23,4 @@ Data Types
 
 Example:
 is_student = True
-print(type(is_student))  # Output: <class 'bool'>
+`print(type(is_student))  # Output: <class 'bool'>`
