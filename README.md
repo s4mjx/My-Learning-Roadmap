@@ -7,7 +7,7 @@ Welcome to my personal study repository — a place to document what I learn and
 ## 📘 Topics I'm Studying
 
 ### 🧩 CompTIA A+
-- [Hardware](CompTIA-A+/01_Cable-Types.md)
+- [Hardware](CompTIA-A+/Cable-Types/Notes.md)
 - [Networking](CompTIA-A+/02_Networking.md)
 - [Troubleshooting](CompTIA-A+/03_Troubleshooting.md)
 - [Operating Systems](CompTIA-A+/04_Operating_Systems.md)
