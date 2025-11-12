@@ -20,9 +20,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - Gaming towers emphasize thermal performance and modularity.
 - All-in-ones emphasize compactness and energy efficiency.
 
----
 
-### **Operational Steps / Procedure**
+# **Operational Steps / Procedure**
 
 1. **Identify the case type:** Tower, gaming, or all-in-one.
 2. **Inspect the front panel:** Look for power button, USB ports, audio jacks, SD card reader, optical drive.
@@ -31,9 +30,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 5. **Verify security features:** Look for Kensington lock slot (especially on compact PCs).
 6. **Assess cooling system:** Locate intake/exhaust fans and power supply vents.
 
----
 
-### **Real-World Examples**
+# **Real-World Examples**
 
 **Example 1 – Office Dell XPS Tower:**
 
@@ -52,9 +50,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - Back: DC power input, 2 × HDMI, 1 × USB-C, RJ45, 4 × USB (1 × 2.0 + 3 × 3.0), audio jack, SD slot, Kensington lock.  
     **Expected outcome:** Slim workspace setup, minimal cabling, external monitor support.
 
----
 
-### **Key Points to Memorize**
+# **Key Points to Memorize**
 
 - **USB color codes:**
     
@@ -72,9 +69,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - **Thumbscrews:** Allow easy side-panel removal.
 - **SD slot:** Reads camera or phone memory cards.
 
----
 
-### **On-the-Job Application (Technician Use)**
+# **On-the-Job Application (Technician Use)**
 
 **Checklist – Setup and Inspection:**
 
@@ -97,9 +93,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - Use antistatic precautions when opening the case.
 - Avoid using excessive force on connectors.
 
----
 
-### **Exam Tips**
+# **Exam Tips**
 
 - Expect **port identification images** — memorize connector shapes.
 - Remember **USB 3.0 = SuperSpeed = 5 Gbps**, **USB-C is reversible**.
@@ -108,9 +103,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - Mnemonic for **video connectors** (old to new): **DVI → HDMI → DisplayPort**.
 - Be ready to identify **RJ45** and **audio jack color codes**.
 
----
 
-### **Mini-Quiz**
+# **Mini-Quiz**
 
 **Multiple Choice**
 
@@ -128,9 +122,8 @@ Each style manages airflow, power delivery, and port arrangement differently:
 5. Name two differences between a gaming tower and an all-in-one PC.  
     **Answer:** Gaming tower has full-size PSU and expansion slots; all-in-one integrates monitor and uses external power adapter.
 
----
 
-### **Short Glossary**
+# **Short Glossary**
 
 - **Chassis:** The physical enclosure of a computer.
 - **Front Panel:** The front-facing area with ports and power button.
@@ -143,16 +136,14 @@ Each style manages airflow, power delivery, and port arrangement differently:
 - **USB-C:** Compact, reversible connector for data and power.
 - **Kensington Lock:** Anti-theft slot for securing devices.
 
----
 
 **DVI (Digital Visual Interface)** is a **video connector** used to transmit video signals from a computer to a display such as a monitor or projector. It was created before HDMI and DisplayPort, and was designed mainly for computer displays rather than televisions.
 ### **Purpose of DVI**
 
 DVI’s purpose is to **carry video data**—either in digital, analog, or both formats—between a computer’s graphics card and a display. It does **not carry audio**, unlike HDMI or DisplayPort.
 
----
 
-### **Types of DVI Connectors**
+# **Types of DVI Connectors**
 
 There are **three main types**:
 
@@ -164,17 +155,15 @@ There are **three main types**:
 3. **DVI-I (Integrated):**  
     Combines digital and analog signals in one connector — can be adapted for either.
 
----
 
-### **Appearance**
+# **Appearance**
 
 - A DVI connector is **larger** than HDMI.
 - It has a **flat horizontal pin** with a group of smaller pins arranged beside or around it.
 - The exact pin layout depends on the type (DVI-D, DVI-A, or DVI-I).
 
----
 
-### **Example in Practice**
+# **Example in Practice**
 
 1. **Office desktop to monitor:**  
     A DVI-D cable connects the computer’s GPU to an older monitor that doesn’t support HDMI.  
@@ -184,9 +173,8 @@ There are **three main types**:
     Using a DVI-to-HDMI adapter lets you connect a DVI GPU port to an HDMI monitor.  
     **Expected result:** Picture appears normally, but still no audio (DVI doesn’t transmit sound).
 
----
 
-### **Key Facts to Memorize**
+# **Key Facts to Memorize**
 
 - **Video only, no audio.**
 - **Replaced by HDMI and DisplayPort** in most modern systems.
