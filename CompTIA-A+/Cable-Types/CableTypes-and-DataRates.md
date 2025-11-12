@@ -27,9 +27,8 @@ When testing or configuring systems, technicians must interpret data rates corre
     Example:  
     1 Gbps ÷ 8 = 125 MB/s real-world transfer rate.
 
----
 
-### **Operational Steps / Procedure**
+# **Operational Steps / Procedure**
 
 1. **Identify cable purpose:** Is it for data, video, power, or storage?
 2. **Check connector type:** USB, HDMI, SATA, etc.
@@ -40,9 +39,8 @@ When testing or configuring systems, technicians must interpret data rates corre
     - Example: 100 Mbps internet = 12.5 MB/s.
 6. **Apply exam objectives:** Summarize each cable type’s connector, purpose, and transfer rate.
 
----
 
-### **Real-World Examples**
+# **Real-World Examples**
 
 1. **Internet Plan Comparison:**
     
@@ -55,9 +53,8 @@ When testing or configuring systems, technicians must interpret data rates corre
     - A **USB 3.0 flash drive** supports up to **5 Gbps (625 MB/s)** theoretical speed.
     - If transferring a **2 GB file**, in ideal conditions it would take roughly **3–4 seconds**.
 
----
 
-### **Key Points to Memorize**
+# **Key Points to Memorize**
 
 - **1 Byte = 8 bits**
 - **Lowercase b = bits**, **Uppercase B = bytes**
@@ -69,9 +66,8 @@ When testing or configuring systems, technicians must interpret data rates corre
 - 1 Gbps = 125 MB/s (divide by 8)
 - Marketing often uses “bits” to make numbers appear larger.
 
----
 
-### **On-the-Job Application (Job-Ready)**
+# **On-the-Job Application (Job-Ready)**
 
 **Checklist:**
 
@@ -93,9 +89,8 @@ When testing or configuring systems, technicians must interpret data rates corre
 - Avoid tight bends; they degrade signal.
 - Keep spare certified cables for testing.
 
----
 
-### **Exam Tips**
+# **Exam Tips**
 
 - **Keyword “summarize”** → memorize cable facts (speed, purpose).
 - **Keyword “compare”** → know version differences (USB 2.0 vs 3.0).
@@ -104,7 +99,7 @@ When testing or configuring systems, technicians must interpret data rates corre
 - **Expect scenario questions** (e.g., “Which cable supports 5 Gbps?”).
 - Remember: **5 Gbps = USB 3.0**, **10 Gbps = USB 3.1**, **20 Gbps = USB 3.2 Gen 2×2**.
 
-### **Mini-Quiz (5 items)**
+# **Mini-Quiz (5 items)**
 
 **Multiple Choice**
 
@@ -122,9 +117,8 @@ When testing or configuring systems, technicians must interpret data rates corre
 5. If a file is 100 MB and your transfer speed is 50 MB/s, how long will it take to transfer?  
     → **2 seconds**
 
----
 
-### **Short Glossary**
+# **Short Glossary**
 
 - **Bit (b):** Smallest unit of data; 0 or 1.
 - **Byte (B):** 8 bits; used to measure storage.
