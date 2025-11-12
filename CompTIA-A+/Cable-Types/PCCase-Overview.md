@@ -2,9 +2,6 @@
 
 The exterior of a PC case is the interface between the user and the internal hardware. Understanding the layout, ports, and case types (tower, gaming, and all-in-one) is crucial for identifying components, troubleshooting, and setting up devices correctly. Technicians must recognize ports visually and know their functions to connect peripherals and diagnose connectivity issues.
 
----
-
-### **Layered Explanation**
 
 **Basic Level:**  
 A _computer case_ (also called a chassis) houses all the main computer components — the motherboard, power supply, drives, and expansion cards. The front and back panels contain ports and buttons that allow users to interact with the system.
