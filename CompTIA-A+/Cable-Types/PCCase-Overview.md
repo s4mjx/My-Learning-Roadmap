@@ -1,4 +1,4 @@
-### **Introduction**
+# **Introduction**
 
 The exterior of a PC case is the interface between the user and the internal hardware. Understanding the layout, ports, and case types (tower, gaming, and all-in-one) is crucial for identifying components, troubleshooting, and setting up devices correctly. Technicians must recognize ports visually and know their functions to connect peripherals and diagnose connectivity issues.
 
