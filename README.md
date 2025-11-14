@@ -6,17 +6,25 @@ Welcome to my personal study repository — a place to document what I learn and
 
 ## 📘 Topics I'm Studying
 
-### 🧩 CompTIA A+
+### 🧩 Prep Certification
 - [CompTIA A+](CompTIA-A+)
-- [Networking](CompTIA-A+/02_Networking.md)
-- [Troubleshooting](CompTIA-A+/03_Troubleshooting.md)
-- [Operating Systems](CompTIA-A+/04_Operating_Systems.md)
+- [CompTIA Network+ (Soon)]()
+- [CompTIA Linux+ (Soon)]()
+- [CompTIA Security+ (Soon)]()
 
-### 🐍 Python
-- [Basics](Python/01_Basics.md)
-- [Control Flow](Python/02_ControlFlow.md)
-- [Functions](Python/03_Functions.md)
-- [Mini Projects](Python/04_Projects.md)
+### 🔐 HTB Academy
+- [HTB Certified Junior Cybersecurity Associate (Soon)]()
+- [HTB Certified Web Exploitation Specialist (Soon)]()
+- [HTB Certified Web Exploitation Expert (Soon)]()
+- [HTB Certified Penetration Testing Specialist (Soon)]()
+- [HTB Certified Active Directory Pentesting Expert (Soon)]()
+
+### 🧪 HTB Labs
+- [Starting Point walkthroughs (my own writeups)]()
+
+### 🐍 Programming Language
+- [Python (Soon)]()
+- [Javascript (Soon)]()
 
 ---
 
@@ -28,3 +36,7 @@ Welcome to my personal study repository — a place to document what I learn and
 ---
 
 > “Discipline beats motivation.”
+
+> ⚠️ Disclaimer  
+> All notes in this repository are written in my own words for educational and personal study purposes.  
+> No copyrighted course material is copied or reproduced.
