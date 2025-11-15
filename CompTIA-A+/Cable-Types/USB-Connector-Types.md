@@ -17,12 +17,20 @@ Different shapes exist because each device type has different **data speed** and
 
 
 ## USB Type B — The Printer Type
-- **Standard Type B:** square with rounded top corners → printers, scanners.<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/b1202039-3ce0-45b0-99f6-4b820dffd31d" />
+- **Standard Type B:** square with rounded top corners → printers, scanners.
+<img width="580" height="580" alt="image" src="https://github.com/user-attachments/assets/b1202039-3ce0-45b0-99f6-4b820dffd31d" />
 
-- **Mini B:** small trapezoid → early tablets, cameras.  
-- **Micro B:** thinner, smaller → older phones, wearables.  
-- **USB 3 Type B:** square with extra rectangle on top (not compatible with USB 2 Type B).  
+- **Mini B:** small trapezoid → early tablets, cameras.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/18fca639-dc6e-449e-9244-7a7a91681209" />
+ 
+- **Micro B:** thinner, smaller → older phones, wearables.
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8113effb-a8fc-45c7-911b-91c78f331002" />
+  
+- **USB 3 Type B:** square with extra rectangle on top (not compatible with USB 2 Type B).
+<img width="820" height="480" alt="image" src="https://github.com/user-attachments/assets/a49a3edd-518f-4bf4-bb37-d01c1dd0694a" />
+  
 - **USB 3 Micro B:** figure-8 shape → external hard drives (5 Gbps).
+<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/e838a562-e2d1-4ede-8196-8762da27614f" />
 
 **Mental anchor:** “B = Big devices (printers, scanners, drives).”
 
@@ -33,6 +41,7 @@ Different shapes exist because each device type has different **data speed** and
 - Handles high speed (up to 40 Gbps) and high power (up to 240 W PD).  
 - Found on modern laptops, tablets, and smartphones.  
 - Can carry **video (DisplayPort / Thunderbolt)** and **power** at the same time.
+<img width="860" height="770" alt="image" src="https://github.com/user-attachments/assets/ff0df014-336e-4d24-b118-2d793f1371bb" />
 
 **Mental anchor:** “C = Current generation, Clean design, Charges everything.”
 
