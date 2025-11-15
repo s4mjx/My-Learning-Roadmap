@@ -16,7 +16,7 @@ Different shapes exist because each device type has different **data speed** and
 
 
 ## USB Type B — The Printer Type
-- **Standard Type B:** square with rounded top corners → printers, scanners. ![imagen](https://www.walmart.com/c/kp/usb-type-b)
+- **Standard Type B:** square with rounded top corners → printers, scanners.[https://www.walmart.com/c/kp/usb-type-b](https://imgs.search.brave.com/Tw5fOT54_5pEM8BWEZu0F3yqvTk5TsuK7wHMQaCle5Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pNS53/YWxtYXJ0aW1hZ2Vz/LmNvbS9zZW8vQ21w/bGUtVVNCLVByaW50/ZXItQ2FibGUtM2Z0/LU1hbGUtTWFsZS1V/U0ItMi0wLUItQ2Fi/bGUtVVNCLVR5cGUt/Qi1QcmludGVyLVNj/YW5uZXItQ2FibGUt/Q29tcGF0aWJsZS1J/bmtqZXQtUHJpbnRl/ci1MYXNlci1Qcmlu/dGVyLUNvcGllci1N/YWNoaW5lLUJsYWNr/X2ZhZjA0NTE0LWNl/OGMtNDQ5OS05MjQ0/LWQyM2FlN2M5NjA1/Ny44YjZiMjI1NzQ0/MDE5MzM1YWE2NWRm/ZmYwYWE3MTlkOS5q/cGVnP29kbkhlaWdo/dD01ODAmb2RuV2lk/dGg9NTgwJm9kbkJn/PUZGRkZGRg)
 - **Mini B:** small trapezoid → early tablets, cameras.  
 - **Micro B:** thinner, smaller → older phones, wearables.  
 - **USB 3 Type B:** square with extra rectangle on top (not compatible with USB 2 Type B).  
