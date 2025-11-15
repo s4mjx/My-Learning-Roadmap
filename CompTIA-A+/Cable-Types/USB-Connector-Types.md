@@ -11,6 +11,7 @@ Different shapes exist because each device type has different **data speed** and
 - Supports USB 1.0 → 2.0 → 3.0 and newer.  
 - Still the most widespread connector used today.  
 - Typical uses: flash drives, mice, keyboards, webcams.
+<img width="500" height="359" alt="image" src="https://github.com/user-attachments/assets/572a8e0a-5586-468a-bf70-00eb8bb08818" />
 
 **Mental anchor:** “A = Always on the computer side.”
 
