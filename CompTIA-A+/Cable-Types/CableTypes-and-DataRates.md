@@ -1,4 +1,4 @@
-## **My Study Notes – Cable Types (OBJ 3.2 & 3.4)**
+## **My Study Notes – Cable Types and Data Rates**
 
 # **My Thought Process**
 
