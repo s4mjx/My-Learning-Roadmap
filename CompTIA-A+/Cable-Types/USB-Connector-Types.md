@@ -16,7 +16,7 @@ Different shapes exist because each device type has different **data speed** and
 
 
 ## USB Type B — The Printer Type
-- **Standard Type B:** square with rounded top corners → printers, scanners.  
+- **Standard Type B:** square with rounded top corners → printers, scanners. ![imagen](https://www.walmart.com/c/kp/usb-type-b)
 - **Mini B:** small trapezoid → early tablets, cameras.  
 - **Micro B:** thinner, smaller → older phones, wearables.  
 - **USB 3 Type B:** square with extra rectangle on top (not compatible with USB 2 Type B).  
