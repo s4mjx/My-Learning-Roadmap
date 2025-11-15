@@ -1,10 +1,23 @@
 # USB Connector Types
 
-USB (Universal Serial Bus) connectors are standardized interfaces used to connect devices such as keyboards, printers, external drives, and smartphones to computers. Undertanding connector types is essential for hardware compatibility, data transfer speeds, and power delivery in IT environments.
+🧠 My Mental Notes – USB Connector Types (OBJ 3.2)
+Overview
 
-USB connectors are the physical ends of USB cables. Different shapes and sizes exist because devices have different power and data requirements.
+USB (Universal Serial Bus) connectors are the physical interfaces that link devices like keyboards, printers, and phones to a computer.
+Different shapes = different purposes, speeds, and power capabilities.
 
-- USB Type A: Flat, rectangular, one-directional; mostly used on computers for connecting peripherals.
-- USB Type B: Square or trapezoid-shaped; commonly found on devices like printers and older smartphones.
-- USB Type C: Small, oval, reversible; supports faster data and power for modern devices.
+---
+🔹 Type A — The Classic One
+
+Flat, rectangular, one-directional (must plug in a specific way).
+
+Found mostly on desktops and laptops.
+
+Supports USB 1.0 → 2.0 → 3.0 and newer.
+
+Still the most common port I see everywhere.
+
+Used for: flash drives, keyboards, mice.
+
+🧩 Mental anchor: “A = Always on the computer side.”
 
