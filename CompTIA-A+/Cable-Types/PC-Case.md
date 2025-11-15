@@ -121,9 +121,13 @@ This design saves space but limits internal upgrades. Perfect for offices or cla
 # **8. Quick Review Quiz**
 
 **1.** Which connector is rectangular with one corner cut?  → _DisplayPort._
+
 **2.** What’s the speed of a blue USB port?  → _5 Gbps (USB 3.0)._
+
 **3.** What port provides wired Ethernet?  → _RJ45._
+
 **4.** Which connector carries video but not audio?  → _DVI._
+
 **5.** What is the function of a Kensington lock slot?  → _Physical theft protection._
 
 
