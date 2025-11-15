@@ -4,7 +4,6 @@
 USB (Universal Serial Bus) connectors are the physical interfaces that link external devices like keyboards, printers, and smartphones to a computer.  
 Different shapes exist because each device type has different **data speed** and **power requirements**.
 
----
 
 ## USB Type A — The Classic One
 - Flat, rectangular, connects in only one direction.  
@@ -15,7 +14,6 @@ Different shapes exist because each device type has different **data speed** and
 
 **Mental anchor:** “A = Always on the computer side.”
 
----
 
 ## USB Type B — The Printer Type
 - **Standard Type B:** square with rounded top corners → printers, scanners.  
@@ -26,7 +24,6 @@ Different shapes exist because each device type has different **data speed** and
 
 **Mental anchor:** “B = Big devices (printers, scanners, drives).”
 
----
 
 ## USB Type C — The Modern Standard
 - Small, oval, reversible (works either way).  
@@ -37,7 +34,6 @@ Different shapes exist because each device type has different **data speed** and
 
 **Mental anchor:** “C = Current generation, Clean design, Charges everything.”
 
----
 
 ## Quick Comparison Table
 
@@ -47,7 +43,6 @@ Different shapes exist because each device type has different **data speed** and
 | **B** | Square / Trapezoid | One-way | Printers, HDDs, scanners | Up to 5 Gbps | ❌ |
 | **C** | Oval | Either side | Phones, laptops, tablets | Up to 40 Gbps | ✅ |
 
----
 
 ## Key Takeaways
 - Type A = Host side (flat rectangle).  
@@ -58,7 +53,6 @@ Different shapes exist because each device type has different **data speed** and
 - Match **USB version** and **connector type** for full speed.  
 - Blue color inside port = USB 3.0 (SuperSpeed).
 
----
 
 ## On-the-Job Memory Cue
 
@@ -72,7 +66,6 @@ Different shapes exist because each device type has different **data speed** and
 
 **Rule:** “Identify port → Match cable → Verify version.”
 
----
 
 ## Exam Triggers
 - “Which connector is reversible?” → **Type C**  
@@ -81,7 +74,6 @@ Different shapes exist because each device type has different **data speed** and
 - “Blue port color?” → **USB 3.0 (5 Gbps)**  
 - “Type B 2.0 and 3.0 interchangeable?” → **No**
 
----
 
 ## Visual Memory Tip
 - **A** → long rectangle  
@@ -89,7 +81,6 @@ Different shapes exist because each device type has different **data speed** and
 - **Micro B (USB 3)** → figure 8  
 - **C** → oval spaceship
 
----
 
 ## Summary Thought
 USB evolution = from **rigid and slow (A/B)** → **flexible and powerful (C)**.  
