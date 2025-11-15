@@ -3,7 +3,7 @@
 A computer’s exterior tells me a lot about what’s inside. Every case — office, gaming, or all-in-one — has the same basic mission: give access to power, connectivity, and expansion. The difference is in _how_ they’re designed for performance, cooling, and size.
 
 
-## **1. Standard Office Tower (Example: Dell XPS)**
+## **1. Standard Office Tower**
 
 # **Front Panel (What I See)**
 
@@ -50,7 +50,7 @@ Gaming PCs are all about performance and cooling.
 - Kensington lock slot → security (attach cable lock to prevent theft).
 
 
-## **3. All-in-One PC
+## **3. All-in-One PC**
 
 Looks like a monitor, but it’s a full PC inside.
 
