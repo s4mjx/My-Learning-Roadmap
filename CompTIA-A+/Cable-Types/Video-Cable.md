@@ -15,7 +15,7 @@ Video cables connect computers and devices to displays such as monitors, TVs, an
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/884f5fa5-a19a-487f-b2b8-925e7d1fcfe7" />
   
 - Thunderbolt and USB-C = can transmit video using DisplayPort technology internally.
-<img width="860" height="1075" alt="image" src="https://github.com/user-attachments/assets/d992305b-53e2-4586-a4e1-f618de02821d" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/d992305b-53e2-4586-a4e1-f618de02821d" />
  
 - Newer cables = more bandwidth → higher resolution → higher refresh rate.
 
@@ -28,10 +28,10 @@ HDMI is a digital interface for video + audio. Supports 1080p up to 8K and inclu
 ## Connector Types  
 - **Type A** – Standard full-size  
 - **Type C** – Mini HDMI
-<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/e8a45e76-c12b-4cf3-80cd-e9f4ba64caa0" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/e8a45e76-c12b-4cf3-80cd-e9f4ba64caa0" />
 
 - **Type D** – Micro HDMI
-<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/af307456-da69-478f-817e-334da659dec5" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/af307456-da69-478f-817e-334da659dec5" />
   
 
 ## Cable Categories  
@@ -91,10 +91,10 @@ High-speed interface that carries video, data, and power.
 
 ## Versions  
 - **Thunderbolt 1/2** → Mini DisplayPort connector
-<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/91f020cb-c960-42cd-a437-59985d5cc7da" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/91f020cb-c960-42cd-a437-59985d5cc7da" />
 
 - **Thunderbolt 3/4** → USB-C connector (40 Gbps)
-<img width="860" height="478" alt="image" src="https://github.com/user-attachments/assets/942ac698-0192-4d50-a729-25ac4ff3f05a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/942ac698-0192-4d50-a729-25ac4ff3f05a" />
 
 
 ## Key Notes  
@@ -138,7 +138,7 @@ Reversible connector that can transmit video if the port supports **DisplayPort 
 - VGA = analog, 15 pins  
 - Thunderbolt 3/4 = USB-C @ 40 Gbps  
 - USB-C video requires **DisplayPort Alt Mode**
-<img width="860" height="860" alt="image" src="https://github.com/user-attachments/assets/f41bb6f9-08e2-4717-991f-d33d22bde850" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/f41bb6f9-08e2-4717-991f-d33d22bde850" />
  
 - Not all USB-C ports output video
 
