@@ -1,0 +1,81 @@
+# USB Cables
+
+## What USB Solves
+Serial ports (DB9/DB25) were slow (115 Kbps), limited to one device per port, and outdated.  
+USB replaced them by providing faster speeds, shared bandwidth, power delivery, and support for up to **127 devices** per controller through hubs.
+
+
+## How I Think About USB
+USB = **data + power** on the same cable.  
+All devices connected to the same USB controller share bandwidth.  
+Older devices on the same hub can slow down all others unless the hub is **multi-TT**.
+
+Cable length, power limits, and USB versions directly affect performance.
+
+
+## USB Speeds (My Memorization Map)
+
+- **USB 1.0** – 1.5 Mbps  
+- **USB 1.1** – 12 Mbps  
+- **USB 2.0** – 480 Mbps  
+- **USB 3.1 Gen 1 (SuperSpeed)** – 5 Gbps  
+- **USB 3.1 Gen 2** – 10 Gbps  
+- **USB 3.2 Gen 2×2** – 20 Gbps  
+- **USB 4.0** – 40 Gbps  
+
+**Memory trick:**  
+`1.5 → 12 → 480 → 5G → 10G → 20G → 40G`
+
+
+## Cable Length — The Rule in My Head
+
+- **USB 1.0:** 3 m  
+- **USB 1.1 / USB 2.0:** 5 m  
+- **USB 3.x:** 3 m  
+
+Longer cables exist (20–50 ft) but reduce speed.  
+For full performance, I keep cables **under 9 ft (≈3 m)**.
+
+
+## Power Delivery — By USB Version
+
+- **USB 2.0:** 0.5 A (weak for modern devices)  
+- **USB 3.0:** 0.9 A (better, moderate charging)  
+- **USB PD (Power Delivery):** 1.5 A and above, can negotiate up to 20V  
+
+PD allows fast charging and powering larger devices like tablets and laptops.
+
+Slow charging usually means: **wrong port**, not the wrong cable.
+
+
+## How USB Hubs Work (My Internal Logic)
+USB hubs share bandwidth across all connected devices.
+
+- **Single-TT hubs:** one slow device (USB 1.1/2.0) slows down everything.  
+- **Multi-TT hubs:** isolate slow devices so faster ones keep full speed.
+
+For SSDs, webcams, and audio interfaces → **always use USB 3.x directly**.
+
+
+## My Practical Rules (Avoiding Technician Mistakes)
+
+1. Plug SSDs, VR gear, and webcams into **USB 3.x (blue or SS)** ports.  
+2. Do not mix old devices with new ones on cheap hubs.  
+3. Keep cables short—especially USB 3.x.  
+4. Use PD ports for phones, tablets, and external HDDs.  
+5. If speeds drop, swap for a new cable or shorten it.
+
+
+## Quick Reference Table
+
+```markdown
+USB Version        Max Speed          Max Cable Length      Power Output
+---------------------------------------------------------------------------
+USB 1.0            1.5 Mbps           3 m                   0.5 A
+USB 1.1            12 Mbps            5 m                   0.5 A
+USB 2.0            480 Mbps           5 m                   0.5 A
+USB 3.1 Gen 1      5 Gbps             3 m                   0.9 A
+USB 3.1 Gen 2      10 Gbps            3 m                   0.9 A
+USB 3.2 Gen 2x2    20 Gbps            3 m                   0.9 A
+USB 4.0            40 Gbps            3 m                   Depends on PD
+
