@@ -16,7 +16,6 @@ Legacy systems used SCSI.
 - USB-C shape doesn’t guarantee Thunderbolt speed.  
 - Thunderbolt devices require Thunderbolt support on the port.
 
-```text
 Thunderbolt 4
 Connector: USB-C
 Speed: 40 Gbps
