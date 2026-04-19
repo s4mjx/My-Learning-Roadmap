@@ -4,7 +4,7 @@
 
 **Penetration Tester in Training | HTB Player | Pursuing CJCA → OSCP**
 
-[![HTB Profile](https://img.shields.io/badge/HackTheBox-s4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/overview)
+[![HTB Profile](https://img.shields.io/badge/HackTheBox-s4mjx-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1975686)
 [![GitHub](https://img.shields.io/badge/GitHub-s4mjx-181717?style=for-the-badge&logo=github)](https://github.com/s4mjx)
 
 </div>
