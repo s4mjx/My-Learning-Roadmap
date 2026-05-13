@@ -1,1 +1,10 @@
+Día 1 — comandos esenciales
+1. whoami
 
+Muestra el usuario actual.
+
+whoami
+
+Ejemplo:
+
+desktop-123\sam
